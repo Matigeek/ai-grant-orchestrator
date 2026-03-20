@@ -1,0 +1,23 @@
+[
+  {
+    "program": "Horizon Europe",
+    "subprogram": "WIDERA",
+    "focus": "research capacity building",
+    "target": ["universities", "CEE countries"],
+    "use_case": "ecosystem development"
+  },
+  {
+    "program": "EIT Health",
+    "subprogram": "Innovation",
+    "focus": "health innovation",
+    "target": ["startups", "universities"],
+    "use_case": "validation and commercialization"
+  },
+  {
+    "program": "Erasmus+",
+    "subprogram": "KA220",
+    "focus": "education cooperation",
+    "target": ["universities", "NGOs"],
+    "use_case": "training and collaboration"
+  }
+]
